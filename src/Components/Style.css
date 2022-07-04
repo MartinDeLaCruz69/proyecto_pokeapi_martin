@@ -4,7 +4,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: #323232;
+    background-color: #FFFAFA;
 }
 .container{
     width: 90%;
@@ -22,7 +22,7 @@ body{
 }
 .card{
     width: 300px;
-    background-color: #FA4EAB;
+    background-color: #FFE0E0;
     border-radius: 1rem;
     box-shadow: 0 5px 5px rgba(0,0,0,0.5);
     padding: 0 1.5rem;
@@ -57,8 +57,8 @@ body{
     margin-top: 1rem;
 }
 .abilities .group{
-    background-color: #FE83C6;
-    color: white;
+    background-color: #FFC0D0;
+    color: black;
     padding: 0.5rem;
     font-size: 12px;
     border-radius: 8px;
@@ -79,6 +79,6 @@ body{
     font-size: 17px;
     font-weight: bold;
     color: black;
-    background-color: #FFF2F9;
+    background-color: #EFDFBF;
     border-radius: 8px;
 }
