@@ -4,7 +4,7 @@ const Pokeinfo = ({ data }) => {
    
     return (
         <>
-        {
+        { 
             (!data) ? "" : (
                 <>
                     <h1>{data.name}</h1>
