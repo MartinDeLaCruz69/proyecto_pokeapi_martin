@@ -11,7 +11,7 @@ const Main=()=>{
     const [nextUrl,setNextUrl]=useState();
     const [prevUrl,setPrevUrl]=useState();
     const [pokeDex,setPokeDex]=useState();
-
+ 
     const pokeFun=async()=>{
         setLoading(true)
         const res=await axios.get(url);
